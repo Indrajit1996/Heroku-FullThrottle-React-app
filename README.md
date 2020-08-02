@@ -9,7 +9,7 @@
 
 #Step 3 Type 
 ### npm start 
-  To Start the application
+  To Start the application in localhost: 3000
   
   
   The application is deployed in
